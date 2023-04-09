@@ -1,0 +1,17 @@
+commit 2afc585425b009d547e1dd4080cc8dde5f245834 (HEAD -> master, origin/master)
+Author: andrejnovkovikj <novkovikjandrej@gmail.com>
+Date:   Sun Apr 9 14:01:03 2023 +0200
+
+    Add java class
+
+commit 9d7097da42a76ba748d2dae9544f03bb2c7477f6 (upstream/master)
+Author: andrejnovkovikj <novkovikjandrej@gmail.com>
+Date:   Sun Apr 9 13:25:46 2023 +0200
+
+    Add java class
+
+commit 32ae8a85db2ac2412623034da37197a0a6748370
+Author: andrejnovkovikj <novkovikjandrej@gmail.com>
+Date:   Sun Apr 9 13:21:10 2023 +0200
+
+    initial commit

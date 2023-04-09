@@ -1,0 +1,7 @@
+git init - иницијализација na Git во локалниот директориум
+git remote add origin https://github.com/andrejnovkovikj/SI_2023_lab1_203136.git - поврзување на локалниот директориум и репозиториумот на github
+type nul > README.md - креирање на README.md фајл
+git add README.md - додавање на README.md на репоризториумот
+git commit -m "first commit" -прв commit
+git add SILab1.java - додавање на фајл во репозиториумот
+git push -u origin master - сите измени што се направени локално да се аплицираат на репозиториумот
